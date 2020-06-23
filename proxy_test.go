@@ -8,7 +8,7 @@ import (
 	"crypto/x509"
 	"encoding/base64"
 	"fmt"
-	"github.com/elazarl/goproxy"
+	"github.com/ajvpot/goproxy"
 	goproxy_image "github.com/elazarl/goproxy/ext/image"
 	"image"
 	"io"
